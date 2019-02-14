@@ -1,4 +1,4 @@
-source "https://supermarket.getchef.com"
+source "https://supermarket.chef.com"
 
 group :community do
   cookbook 'jenkins'
